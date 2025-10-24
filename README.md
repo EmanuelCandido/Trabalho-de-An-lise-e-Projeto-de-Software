@@ -6,8 +6,8 @@ Tem como objetivo otimizar a gestão e organização acadêmica dos alunos, cent
 
 O sistema conta com três principais recursos: 
 
-*Gestão acadêmica:* organiza prazos, notas e materiais de cada disciplina em um único painel. 
+**Gestão acadêmica:** organiza prazos, notas e materiais de cada disciplina em um único painel. 
 
-*IA de suporte:* identifica dificuldades e cria planos de estudo personalizados. 
+**IA de suporte:** identifica dificuldades e cria planos de estudo personalizados. 
 
-*Calendário inteligente:* centraliza prazos, envia lembretes e sugere tempo de estudo antes das provas 
+**Calendário inteligente:** centraliza prazos, envia lembretes e sugere tempo de estudo antes das provas 
