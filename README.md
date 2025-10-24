@@ -1,6 +1,6 @@
 # 💻Trabalho de Analise e Projeto de Software
 
-## 📚Sistema Studo
+## 📒Sistema Studo
 
 Tem como objetivo otimizar a gestão e organização acadêmica dos alunos, centralizando informações e automatizando tarefas essenciais do ambiente estudantil. Ele permitirá que os alunos gerenciem prazos, acompanhem notas e frequência, recebam ajuda de uma IA integrada com planos de estudo personalizados e recebam notificações sobre atividades pendentes. 
 
