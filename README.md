@@ -13,3 +13,5 @@ O sistema conta com três principais recursos:
 **Calendário inteligente:** centraliza prazos, envia lembretes e sugere tempo de estudo antes das provas 
 
 Video explicando projeto do sistema: https://youtu.be/g52sQAsBp38?si=v5aXJ4g35T0j4d6i
+
+Documento do projeto: https://drive.google.com/file/d/1M10GBmVCkmGUYkKkafo2yU4X5Wvt6Psh/view?usp=sharing
