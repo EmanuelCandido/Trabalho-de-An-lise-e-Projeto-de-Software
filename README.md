@@ -11,4 +11,5 @@ O sistema conta com três principais recursos:
 **IA de suporte:** identifica dificuldades e cria planos de estudo personalizados. 
 
 **Calendário inteligente:** centraliza prazos, envia lembretes e sugere tempo de estudo antes das provas 
+
 Video explicando projeto do sistema: https://youtu.be/g52sQAsBp38?si=v5aXJ4g35T0j4d6i
